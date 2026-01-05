@@ -1,0 +1,4 @@
+{
+  "name": "EHS Photo Audit Assistant",
+  "description": "Mobile-first bilingual EHS audit tool using Gemini 2.5 Flash to analyze photos, assess risks (LxS), generate CAPs, and export actionable PDF/JSON reports."
+}
